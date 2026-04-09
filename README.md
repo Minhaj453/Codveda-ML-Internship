@@ -3,23 +3,23 @@ Machine Learning Internship Projects - Codveda
 
 ## 📊 Tasks Completed
 
-### 🟢 Level 1 — Basic
+### 🟢 Level 1 - Basic
 | Task | Description | Tools |
 |------|-------------|-------|
 | Task 1 | Data Preprocessing | pandas, scikit-learn |
 | Task 2 | Linear Regression — House Price Prediction | pandas, scikit-learn |
 
-### 🟡 Level 2 — Intermediate
+### 🟡 Level 2 - Intermediate
 | Task | Description | Tools |
 |------|-------------|-------|
-| Task 3 | Logistic Regression — Customer Churn Prediction | scikit-learn, matplotlib |
-| Task 4 | Decision Tree — Iris Classification | scikit-learn, matplotlib |
+| Task 3 | Logistic Regression - Customer Churn Prediction | scikit-learn, matplotlib |
+| Task 4 | Decision Tree - Iris Classification | scikit-learn, matplotlib |
 
-### 🔴 Level 3 — Advanced
+### 🔴 Level 3 - Advanced
 | Task | Description | Tools |
 |------|-------------|-------|
-| Task 5 | Random Forest — Churn Classification | scikit-learn, matplotlib |
-| Task 6 | SVM — Iris Classification | scikit-learn, matplotlib |
+| Task 5 | Random Forest - Churn Classification | scikit-learn, matplotlib |
+| Task 6 | SVM - Iris Classification | scikit-learn, matplotlib |
 
 ## 📈 Results Summary
 | Model | Dataset | Accuracy |
@@ -33,10 +33,10 @@ Machine Learning Internship Projects - Codveda
 
 ## 🛠️ Technologies Used
 - **Python 3.x**
-- **pandas** — Data manipulation
-- **NumPy** — Numerical computing
-- **scikit-learn** — Machine learning models
-- **matplotlib & seaborn** — Data visualization
+- **pandas** - Data manipulation
+- **NumPy** - Numerical computing
+- **scikit-learn** - Machine learning models
+- **matplotlib & seaborn** - Data visualization
 
 ## 👤 Author
 **Sk Minhajuddin**
