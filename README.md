@@ -39,6 +39,6 @@ Machine Learning Internship Projects - Codveda
 - **matplotlib & seaborn** — Data visualization
 
 ## 👤 Author
-**Minhaj**
+**Sk Minhajuddin**
 - 🏢 ML Intern @ Codveda Technology
 - 💼 [LinkedIn Profile](https://www.linkedin.com/in/sk-minhajuddin-a50931339/)
