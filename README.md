@@ -41,7 +41,4 @@ Machine Learning Internship Projects - Codveda
 ## 👤 Author
 **Minhaj**
 - 🏢 ML Intern @ Codveda Technology
-- 💼 [LinkedIn Profile](#)
-
-## 📜 Certificate
-Virtual Machine Learning Internship — Codveda Technology
+- 💼 [LinkedIn Profile](https://www.linkedin.com/in/sk-minhajuddin-a50931339/)
