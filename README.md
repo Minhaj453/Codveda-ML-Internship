@@ -1,7 +1,7 @@
 # Codveda-ML-Internship
 Machine Learning Internship Projects - Codveda
 
-## 📊 Tasks Completed
+##  Tasks Completed
 
 ### 🟢 Level 1 - Basic
 | Task | Description | Tools |
@@ -21,7 +21,7 @@ Machine Learning Internship Projects - Codveda
 | Task 5 | Random Forest - Churn Classification | scikit-learn, matplotlib |
 | Task 6 | SVM - Iris Classification | scikit-learn, matplotlib |
 
-## 📈 Results Summary
+##  Results Summary
 | Model | Dataset | Accuracy |
 |-------|---------|----------|
 | Linear Regression | House Prices | R² = 66.88% |
@@ -31,7 +31,7 @@ Machine Learning Internship Projects - Codveda
 | SVM (Linear) | Iris | 100% |
 | SVM (RBF) | Iris | 100% |
 
-## 🛠️ Technologies Used
+##  Technologies Used
 - **Python 3.x**
 - **pandas** - Data manipulation
 - **NumPy** - Numerical computing
@@ -40,5 +40,5 @@ Machine Learning Internship Projects - Codveda
 
 ## 👤 Author
 **Sk Minhajuddin**
-- 🏢 ML Intern @ Codveda Technology
+- 🏢 ML Intern @Codveda Technology
 - 💼 [LinkedIn Profile](https://www.linkedin.com/in/sk-minhajuddin-a50931339/)
