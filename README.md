@@ -40,5 +40,5 @@ Machine Learning Internship Projects - Codveda
 
 ## 👤 Author
 **Sk Minhajuddin**
-- 🏢 ML Intern @Codveda Technology
+- 🏢 ML Intern at @CodvedaTechnology
 - 💼 [LinkedIn Profile](https://www.linkedin.com/in/sk-minhajuddin-a50931339/)
